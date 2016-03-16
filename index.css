@@ -1,0 +1,29 @@
+
+/* 
+    Created on : 13/03/2016, 02:10:38
+    Author     : Drei
+*/
+html{
+    background: #CCC;
+}
+h1{
+    text-align: center;
+    background: white;
+}
+
+form{
+    text-align: center;
+    font-weight: bold;
+}
+
+table{
+    text-align: center;
+    margin: 0 auto;
+}
+
+table#tab tr{ /* Toda a tabela com fundo creme */
+	background: #ffc;
+	} 
+table#tab tr.dif {
+	background: #eee; /* Linhas com fundo cinza */
+	}
